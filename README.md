@@ -63,29 +63,17 @@ Ważne jest aby w pakietach Visual Studio 2022 Installer mieć zainstalowane : "
 
 ## 🔑 Dane testowe do logowania
 
-Rola
+Czytelnik : 
+Login : jan.kowalski
+hasło : password123
 
-Login
+Bibliotekarz : 
+Login : pwisniewski 
+hasło : haslo789
 
-Hasło
-
-Czytelnik
-
-jan.kowalski
-
-password123
-
-Bibliotekarz
-
-pwisniewski
-
-haslo789
-
-Administrator
-
-admin
-
-zaq1@WSX
+Administrator : 
+Login : admin  
+hasło : zaq1@WSX
 
 # 📋 Funkcjonalności
 
