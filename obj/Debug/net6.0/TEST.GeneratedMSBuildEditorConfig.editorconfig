@@ -1,0 +1,185 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TEST
+build_property.RootNamespace = TEST
+build_property.ProjectDir = N:\Projekty Visual studio\TEST\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = N:\Projekty Visual studio\TEST
+build_property._RazorSourceGeneratorDebug = 
+
+[N:/Projekty Visual studio/TEST/Views/Account/EditAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxFZGl0QWNjb3VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/AdminInterfejs/Autor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkludGVyZmVqc1xBdXRvclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/AdminInterfejs/Autor/Dodawanie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkludGVyZmVqc1xBdXRvclxEb2Rhd2FuaWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/AdminInterfejs/Autor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkludGVyZmVqc1xBdXRvclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/AdminInterfejs/Czytelnicy/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkludGVyZmVqc1xDenl0ZWxuaWN5XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/AdminInterfejs/Czytelnicy/Dodawanie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkludGVyZmVqc1xDenl0ZWxuaWN5XERvZGF3YW5pZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/AdminInterfejs/Czytelnicy/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkludGVyZmVqc1xDenl0ZWxuaWN5XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/AdminInterfejs/Gatunek/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkludGVyZmVqc1xHYXR1bmVrXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/AdminInterfejs/Gatunek/Dodawanie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkludGVyZmVqc1xHYXR1bmVrXERvZGF3YW5pZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/AdminInterfejs/Gatunek/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkludGVyZmVqc1xHYXR1bmVrXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/AdminInterfejs/Kopie/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkludGVyZmVqc1xLb3BpZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/AdminInterfejs/Kopie/Dodawanie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkludGVyZmVqc1xLb3BpZVxEb2Rhd2FuaWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/AdminInterfejs/Kopie/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkludGVyZmVqc1xLb3BpZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/AdminInterfejs/OddzialRegal/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkludGVyZmVqc1xPZGR6aWFsUmVnYWxcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/AdminInterfejs/OddzialRegal/DodajRegalPietro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkludGVyZmVqc1xPZGR6aWFsUmVnYWxcRG9kYWpSZWdhbFBpZXRyby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/AdminInterfejs/OddzialRegal/Dodawanie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkludGVyZmVqc1xPZGR6aWFsUmVnYWxcRG9kYXdhbmllLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/AdminInterfejs/OddzialRegal/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkludGVyZmVqc1xPZGR6aWFsUmVnYWxcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/AdminInterfejs/Pracownicy/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkludGVyZmVqc1xQcmFjb3duaWN5XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/AdminInterfejs/Pracownicy/Dodawanie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkludGVyZmVqc1xQcmFjb3duaWN5XERvZGF3YW5pZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/AdminInterfejs/Pracownicy/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkludGVyZmVqc1xQcmFjb3duaWN5XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/AdminInterfejs/Wydawnictwo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkludGVyZmVqc1xXeWRhd25pY3R3b1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/AdminInterfejs/Wydawnictwo/Dodawanie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkludGVyZmVqc1xXeWRhd25pY3R3b1xEb2Rhd2FuaWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/AdminInterfejs/Wydawnictwo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkludGVyZmVqc1xXeWRhd25pY3R3b1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/AdminInterfejs/WypozyczeniaKopie/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkludGVyZmVqc1xXeXBvenljemVuaWFLb3BpZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/AdminInterfejs/WypozyczeniaKopie/Dodawanie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkludGVyZmVqc1xXeXBvenljemVuaWFLb3BpZVxEb2Rhd2FuaWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/EditReturnDate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0UmV0dXJuRGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/EntityView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbnRpdHlWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/OddzialRegal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPZGR6aWFsUmVnYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Home/WypozyczeniaKopie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXeXBvenljemVuaWFLb3BpZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Ksiazka/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3NpYXprYVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Ksiazka/Dodawanie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3NpYXprYVxEb2Rhd2FuaWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Ksiazka/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3NpYXprYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Ksiazka/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3NpYXprYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Ksiazka/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3NpYXprYVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Projekty Visual studio/TEST/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jrlwv6gaq4
