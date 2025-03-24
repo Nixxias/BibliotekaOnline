@@ -1,0 +1,54 @@
+W aplikacji starałam się używać jak najwięcej czystego C#, dodatkowo w programie ze względu na umiejscowienie go na stronie internetowej jest również HTML oraz funkcje jak ładniejszy widok jest w javascript. 
+
+Instrukcja jak uruchomić prawidłowo program z załączonych plików : 
+
+1.Zip "Test" rozpakować i rozpakowany folder wrzucić do lokalizacji projektów Visual studio 2022. Jeżeli nie znamy lokalizacji tego folderu, proszę uruchomić Visual Studio 2022 i utworzyć projekt w celu odnalezenia/utworzenia folderu z projektami Visual Studio.  
+
+Program jest utworzony na 6.0 .Net. 
+
+2. Wchodzimy w program PgAdmin 4 z zainstalowanym postgresql 17 Tworzymy Baze danych o nazwie "Biblioteka" i skopiowaną zawartość z pliku notatnika "Baza" wrzucamy do Query Tool (Alt+Shift+Q) oraz uruchamiamy (F5) w celu utworzenia tabel.
+
+3.Przed uruchomieniem programu proszę upewnić się że baza Biblioteka posiada dane Serwera "Localhost", Port="5432",User Id="postgres", Password="postgres". Gdy posiadamy inne dane proszę o ich zmianę w Pgadmin4 lub bezpośrednio w programie w pliku appsettings.json 
+
+4.Pliki są już gotowe do pełnej funkcjonalności programu. Można już go uruchomić otwierając plik "TEST.sln" i debugując najlepiej używając przeglądarki Microsoft Edge.
+
+5.Kompilując program proszę potwierdzić certyfikat SSL. 
+
+
+Ważne jest aby w pakietach Visual Studio 2022 Installer mieć zainstalowane : "Opracowywanie zawartości dla platformy ASP.Net ..." z Sieć Web i Chmura oraz z Komputery i urządzenia przenośne "Programowanie aplikacji klasycznych dla platformy .Net"
+
+
+Skróty - Logowanie jako przykładowy czytelnik i pracownik : 
+
+Czytelnik :
+jan.kowalski
+password123
+
+Bibliotekarz :
+pwisniewski
+haslo789
+
+Administrator :
+admin
+zaq1@WSX
+
+Program jest wykonany na podobieństwo działającej strony Biblioteki która pozwala na zarządzanie danymi, przeglądaniem dostępnych książek oraz wypożyczeń czytelnika.
+
+
+Interfejs Czytelnika : 
+-może przeglądać książki, sortować, wyszukiwać oraz filtrować,
+-może przeglądać swoje wypożyczenia oraz widzieć do kiedy jest zwrot i czy zwrócił,
+-może zmienić dane konta.
+
+Interfejs Bibliotekarza: 
+-może przeglądać książki, sortować, wyszukiwać oraz filtrować. Dodatkowo może dodawać nowe książki i ich kopie,
+-może przeglądać czytelników w celu sprawdzenia danych kontaktowych,
+-może dodawać nowe wypożyczenia oraz dodawać zwrot do aktualnie wypożyczonych książek.
+
+Interfejs Admina : 
+-może przeglądać książki, sortować, wyszukiwać oraz filtrować. Dodatkowo dodawać,edytować i usuwać,
+-edytować, dodawać i usuwać wszystkie wartości w tabelach  - Autor, Czytelnicy, Gatunek, Oddział i Regał, Wypożyczenia, Kopie, Wydawnictwo, Pracownicy.
+
+
+
+
