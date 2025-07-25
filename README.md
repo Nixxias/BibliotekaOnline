@@ -97,7 +97,7 @@ hasło : zaq1@WSX
 
 ## 🖼 Zrzuty ekranu
 
-🎥 [Zobacz demo wideo](funkcjonalnośćstrony.mp4)
+🎥 [Zobacz demo wideo](Funkcjonalnośćstrony.mp4)
 
 ## 📩 Kontakt
 
