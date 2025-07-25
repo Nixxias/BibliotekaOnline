@@ -97,7 +97,7 @@ hasło : zaq1@WSX
 
 ## 🖼 Zrzuty ekranu
 
-Tutaj zostanie wrzucony gif z funkcjonalnością strony :) 
+🎥 [Zobacz demo wideo](funkcjonalnośćstrony.mp4)
 
 ## 📩 Kontakt
 
