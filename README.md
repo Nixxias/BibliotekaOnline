@@ -99,6 +99,10 @@ hasło : zaq1@WSX
 
 🎥 [Zobacz demo wideo](Funkcjonalnośćstrony.mp4)
 
+<p align="center">
+  <img src="Bibliotekapage1.png" width="90%"/>
+</p>
+
 ## 📩 Kontakt
 
 Jeśli masz pytania dotyczące projektu, skontaktuj się ze mną przed jego użyciem.  
